@@ -1,3 +1,5 @@
 hii everyone
 
 tested commit 
+
+3 ways 
